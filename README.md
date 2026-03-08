@@ -1,6 +1,6 @@
 # Joseph Sowunmi – Cybersecurity Consultant
 
-👋 Hello! I’m **Joseph Sowunmi**, a results-driven IT service delivery leader and Cybersecurity consultant with seventeen years of information technology experience, with three of those focussed delivery projects with budiness goal to protect cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+👋 Hello! I’m **Joseph Sowunmi**, a results-driven IT service delivery leader and Cybersecurity consultant with seventeen years of information technology experience, with three of those focussed on delivery of projects/programs with business outcomes to protect cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ---
 
